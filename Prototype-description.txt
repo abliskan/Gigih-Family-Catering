@@ -1,0 +1,33 @@
+Description
+[Nama Project]
+Short explanation
+
+[Interface]
+
+[Tech Stack]
+
+[Requirement Installations]
+
+## Installation
+
+## Setup Local on Computer
+
+## Setup with Docker
+
+[Project Configuration]
+
+## Table
+
+## Entities
+** insert picture **
+
+[Main Features]
+
+[API Spec]
+github template: C:\Users\ricky-suhanry\Downloads\Document\Personal-Interest\Technology\Full-Stack_Web_Development\Backend\How-to-create-api-doc-in-github
+postman template: https://www.youtube.com/watch?v=XNVo9WkCoak
+-------------------------------------------------------------------
+Reference
+https://github.com/abliskan/personal-finance-management-system
+https://github.com/yaroslav0507/FullStackJS
+https://github.com/sfarrukh/rails-crud
