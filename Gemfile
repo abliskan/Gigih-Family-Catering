@@ -71,8 +71,9 @@ group :development do
 end
 
 group :test do
-  # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
+  # Adds support for Capybara system testing and selenium driver
   gem "capybara"
   gem "selenium-webdriver"
+  # Easy installation and use of web drivers to run system tests with browsers
   gem "webdrivers"
 end
